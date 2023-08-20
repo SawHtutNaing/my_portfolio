@@ -15,8 +15,10 @@
     "aos": "^3.0.0-beta.6",
     "boostrap": "^2.0.0",
     "bootstrap": "^5.2.3",
+    "boxicons": "^2.1.4",
     "feather-icons": "^4.29.0",
     "jquery": "^3.6.4",
-    "line-awesome": "^1.3.0"
+    "line-awesome": "^1.3.0",
+    "owl.carousel": "^2.3.4"
   }
 }
